@@ -1,0 +1,41 @@
+.op {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    margin-top: 0;
+    top: 0%;
+}
+
+span {
+    border: 1px solid #000;
+    padding: 10px;
+}
+.opl {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    margin-top: 0;
+    top: 0%;
+}
+.op2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    margin-top: 0;
+    top: 0%;
+}
+.op3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    margin-top: 0;
+    top: 0%;
+}
